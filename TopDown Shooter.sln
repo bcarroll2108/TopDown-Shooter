@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopDown Shooter.CSharp.Plugins", "TopDown Shooter.CSharp.Plugins.csproj", "{B85E5C21-CD2C-053D-D90C-CC0786DC79F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopDown Shooter.CSharp", "TopDown Shooter.CSharp.csproj", "{9E2DC69A-93FB-403A-7B83-604EFB35DDF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TopDown Shooter.CSharp.Editor", "TopDown Shooter.CSharp.Editor.csproj", "{2662EA77-3BAB-4DA4-62AF-5557A05CB531}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B85E5C21-CD2C-053D-D90C-CC0786DC79F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B85E5C21-CD2C-053D-D90C-CC0786DC79F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B85E5C21-CD2C-053D-D90C-CC0786DC79F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B85E5C21-CD2C-053D-D90C-CC0786DC79F4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E2DC69A-93FB-403A-7B83-604EFB35DDF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E2DC69A-93FB-403A-7B83-604EFB35DDF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E2DC69A-93FB-403A-7B83-604EFB35DDF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E2DC69A-93FB-403A-7B83-604EFB35DDF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2662EA77-3BAB-4DA4-62AF-5557A05CB531}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2662EA77-3BAB-4DA4-62AF-5557A05CB531}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2662EA77-3BAB-4DA4-62AF-5557A05CB531}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2662EA77-3BAB-4DA4-62AF-5557A05CB531}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
